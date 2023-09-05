@@ -1,0 +1,15 @@
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/bin/Debug/net6.0/BMI
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/bin/Debug/net6.0/BMI.deps.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/bin/Debug/net6.0/BMI.runtimeconfig.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/bin/Debug/net6.0/BMI.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/bin/Debug/net6.0/BMI.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/obj/Debug/net6.0/BMI.csproj.AssemblyReference.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/obj/Debug/net6.0/BMI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/obj/Debug/net6.0/BMI.AssemblyInfoInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/obj/Debug/net6.0/BMI.AssemblyInfo.cs
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/obj/Debug/net6.0/BMI.csproj.CoreCompileInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/obj/Debug/net6.0/BMI.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/obj/Debug/net6.0/refint/BMI.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/obj/Debug/net6.0/BMI.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/obj/Debug/net6.0/BMI.genruntimeconfig.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/BMI/obj/Debug/net6.0/ref/BMI.dll

@@ -1,0 +1,15 @@
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/bin/Debug/net6.0/classes
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/bin/Debug/net6.0/classes.deps.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/bin/Debug/net6.0/classes.runtimeconfig.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/bin/Debug/net6.0/classes.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/bin/Debug/net6.0/classes.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/obj/Debug/net6.0/classes.csproj.AssemblyReference.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/obj/Debug/net6.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/obj/Debug/net6.0/classes.AssemblyInfoInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/obj/Debug/net6.0/classes.AssemblyInfo.cs
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/obj/Debug/net6.0/classes.csproj.CoreCompileInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/obj/Debug/net6.0/classes.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/obj/Debug/net6.0/refint/classes.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/obj/Debug/net6.0/classes.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/obj/Debug/net6.0/classes.genruntimeconfig.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/classes/obj/Debug/net6.0/ref/classes.dll

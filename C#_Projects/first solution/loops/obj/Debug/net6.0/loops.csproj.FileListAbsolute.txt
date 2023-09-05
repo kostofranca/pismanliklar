@@ -1,0 +1,15 @@
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/obj/Debug/net6.0/loops.csproj.AssemblyReference.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/obj/Debug/net6.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/obj/Debug/net6.0/loops.AssemblyInfoInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/obj/Debug/net6.0/loops.AssemblyInfo.cs
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/obj/Debug/net6.0/loops.csproj.CoreCompileInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/bin/Debug/net6.0/loops
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/bin/Debug/net6.0/loops.deps.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/bin/Debug/net6.0/loops.runtimeconfig.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/bin/Debug/net6.0/loops.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/bin/Debug/net6.0/loops.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/obj/Debug/net6.0/loops.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/obj/Debug/net6.0/refint/loops.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/obj/Debug/net6.0/loops.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/obj/Debug/net6.0/loops.genruntimeconfig.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/loops/obj/Debug/net6.0/ref/loops.dll

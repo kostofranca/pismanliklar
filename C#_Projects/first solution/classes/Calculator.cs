@@ -1,0 +1,47 @@
+﻿using System;
+namespace classes
+{
+	public class Calculator
+	{
+		public int Sum(int a, int b)
+		{
+			return a + b;
+		}
+
+		public double Divide(int a, int b)
+		{
+			return a / b;
+		}
+
+		public int Subtract(int a, int b)
+		{
+			return a - b;
+		}
+
+		public int Multiply(int a, int b)
+		{
+			return a * b;
+		}
+
+        public static int S_Sum(int a, int b)
+        {
+            return a + b;
+        }
+
+        public static double S_Divide(int a, int b)
+        {
+            return a / b;
+        }
+
+        public static int S_Subtract(int a, int b)
+        {
+            return a - b;
+        }
+
+        public static int S_Multiply(int a, int b)
+        {
+            return a * b;
+        }
+    }
+}
+

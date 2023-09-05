@@ -1,0 +1,15 @@
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/bin/Debug/net6.0/abstract_example
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/bin/Debug/net6.0/abstract_example.deps.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/bin/Debug/net6.0/abstract_example.runtimeconfig.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/bin/Debug/net6.0/abstract_example.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/bin/Debug/net6.0/abstract_example.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/obj/Debug/net6.0/abstract_example.csproj.AssemblyReference.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/obj/Debug/net6.0/abstract_example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/obj/Debug/net6.0/abstract_example.AssemblyInfoInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/obj/Debug/net6.0/abstract_example.AssemblyInfo.cs
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/obj/Debug/net6.0/abstract_example.csproj.CoreCompileInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/obj/Debug/net6.0/abstract_example.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/obj/Debug/net6.0/refint/abstract_example.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/obj/Debug/net6.0/abstract_example.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/obj/Debug/net6.0/abstract_example.genruntimeconfig.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/abstract_example/obj/Debug/net6.0/ref/abstract_example.dll

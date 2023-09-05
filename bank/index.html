@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sign Up / Sign In</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <style>
+        * {
+            font-family: monospace;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container" id="login-container">
+        <div class="row justify-content-center mt-5">
+            <div class="col-lg-4 col-sm-8">
+
+                <div class="card shadow-lg">
+                    <div class="card-header bg-white">
+                        <h2 class="text-center">Welcome to KasBank</h2>
+                    </div>
+
+                    <div class="card-body">
+                        <form class="form-control">
+                            <div class="form-row align-items-center">
+                                <div class="col-auto">
+                                    <label class="sr-only" for="name">Name</label>
+                                    <input type="text" class="form-control mb-2" id="name" placeholder="Name">
+                                </div>
+                                <div class="col-auto">
+                                    <label class="sr-only" for="surname">Surname</label>
+                                    <input type="text" class="form-control mb-2" id="surname" placeholder="Surname">
+                                </div>
+                                <div class="col-auto">
+                                    <label class="sr-only" for="Id">Citizenship Id</label>
+                                    <input type="text" class="form-control mb-2" id="Id" placeholder="Citizenship Id">
+                                </div>
+                                <div class="col-auto">
+                                    <label class="sr-only" for="password">Password</label>
+                                    <input type="password" class="form-control mb-2" id="password"
+                                        placeholder="Password">
+                                </div>
+
+                                <div class="col-auto text-center">
+                                    <button type="button" class="btn btn-outline-primary mb-2 w-75" id="signup"
+                                        onclick="sign();">Sign
+                                        up</button>
+                                    <button type="button" class="btn btn-outline-success mb-2 w-75" id="signin"
+                                        onclick="login()">Sign
+                                        in</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" id="user-card-container">
+        <div class="row justify-content-center mt-5">
+            <div class="col-lg-6 col-sm-8">
+                <p class="text-center"> Please! Choose your task below.</p>
+                <div class="card shadow-lg shadow-sm" id="user-card">
+                    <div class="card-header bg-white" id="user-card-header">
+                        <h2 class="text-center mb-0">Welcome!</h2>
+                        <p id="user-header-username" class="text-center m-0 p-0 text-success text-uppercase">Ahmet Kasım
+                        </p>
+                    </div>
+
+                    <div class="card-body border p-1" id="user-card-body">
+                        <form action="" class="text-center" id="user-form">
+                            <table class="table table-bordered table-hover mb-0" id="user-table">
+                                <tr id="table-row-name">
+                                    <th class="w-auto">Name</th>
+                                    <td id="table-name"></td>
+                                </tr>
+                                <tr id="table-row-surname">
+                                    <th class="w-auto">Surname</th>
+                                    <td id="table-surname"></td>
+                                </tr>
+                                <tr id="table-row-id">
+                                    <th class="w-auto">Id</th>
+                                    <td id="table-id"></td>
+                                </tr>
+                                <tr id="table-row-password">
+                                    <th class="w-auto">Password</th>
+                                    <td id="table-password"></td>
+                                </tr>
+                                <tr id="table-row-balance">
+                                    <th class="w-auto">Balance</th>
+                                    <td id="table-balance"></td>
+                                </tr>
+                            </table>
+                        </form>
+                    </div>
+                    <div class="card-body" id="button-container">
+                        <div class="row justify-content-center">
+                            <div class="col-8 d-flex flex-column gap-2">
+                                <table id="button-table">
+                                    <tr class="text-center justify-content-center table-hover m-1">
+                                        <td id="table-button-withdraw"><button
+                                                class="btn btn-outline-danger">Withdraw</button></td>
+                                    </tr>
+                                    <tr class="text-center justify-content-center table-hover m-1">
+                                        <td id="table-button-deposit"><button
+                                                class="btn btn-outline-success">Deposit</button></td>
+                                    </tr>
+                                    <tr class="text-center justify-content-center table-hover m-1">
+                                        <td id="table-button-delete"><button class="btn btn-outline-danger">Delete
+                                                Account</button></td>
+                                    </tr>
+                                    <tr class="text-center justify-content-center table-hover m-1">
+                                        <td id="table-button-update">
+                                            <button class="btn btn-outline-danger">Update
+                                                Account</button>
+                                        </td>
+                                    </tr>
+                                    <tr class="text-center justify-content-center table-hover">
+                                        <td id="table-user-choose">
+                                            <select id="users" class="form-control form-select"
+                                                name="Choose an account to send money">
+                                            </select>
+                                        </td>
+                                    </tr>
+                                    <tr class="text-center justify-content-center table-hover">
+                                        <td id="table-amount-choose">
+                                            <input type="number" class="form-control"
+                                                placeholder="Choose an amount to send" id="amount-to-send">
+                                        </td>
+                                    </tr>
+                                    <tr class="text-center justify-content-center table-hover">
+                                        <td id="table-button-send"><button class="btn btn-outline-warning">Send
+                                                Money</button></td>
+                                    </tr>
+
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-body border p-1" id="acc-card-body">
+                        <form action="" class="text-center" id="acc-form">
+                            <table class="table table-bordered table-hover mb-0" id="acc-table">
+                                <tr id="acc-row-head">
+                                    <th class="w-auto">Account ID</th>
+                                    <th class="w-auto">Activity</th>
+                                </tr>
+                                <tr id="acc-row-acc">
+                                    <td id="acc-id">Id</td>
+                                    <td id="acc-acc">Acc</td>
+                                </tr>
+                            </table>
+                        </form>
+                    </div>
+                    <div class="card-body border p-2" id="admin-card-body">
+                        <form action="" class="text-center" id="admin-form">
+                            <table class="table table-bordered table-hover mb-0" id="admin-table">
+                                <tr id="admin-row-head">
+                                    <th class="w-auto">User</th>
+                                    <th class="w-auto">Info</th>
+                                </tr>
+                                <tr id="admin-row-content">
+                                    <td id="admin-user-id">User</td>
+                                    <td id="admin-user-content">Info</td>
+                                </tr>
+                            </table>
+                        </form>
+                    </div>
+                    <div class="card-footer d-flex flex-column gap-1" id="user-card-footer">
+                        <div class="col-auto text-center m-1">
+                            <button type="button" class="btn btn-outline-primary w-75" id="button-setting"
+                                onclick="setting()">Settings</button>
+                        </div>
+                        <div class="col-auto text-center">
+                            <button type="button" class="btn btn-outline-primary w-75" id="button-activity"
+                                onclick="activity()">Activities</button>
+                        </div>
+                        <div class="col-auto text-center">
+                            <button type="button" class="btn btn-outline-primary w-75" id="button-balance"
+                                onclick="balance()">Balance</button>
+                        </div>
+                        <div class="col-auto text-center">
+                            <button type="button" class="btn btn-outline-primary w-75" id="button-eft"
+                                onclick="transfer()">EFT /
+                                Transfer</button>
+                        </div>
+                        <div class="col-auto text-center">
+                            <button type="button" class="btn btn-outline-primary w-75" id="button-draft"
+                                onclick="draft()">Draft</button>
+                        </div>
+                        <div class="col-auto text-center">
+                            <button type="button" class="btn btn-outline-primary w-75" id="button-back"
+                                onclick="back()">Back</button>
+                        </div>
+                        <hr>
+                        <div class="col-auto text-center">
+                            <button type="button" class="btn btn-outline-secondary w-75" id="button-logout"
+                                onclick="logout()">Log
+                                Out</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/bank/assets/js/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

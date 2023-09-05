@@ -1,0 +1,15 @@
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/bin/Debug/net6.0/metodlar
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/bin/Debug/net6.0/metodlar.deps.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/bin/Debug/net6.0/metodlar.runtimeconfig.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/bin/Debug/net6.0/metodlar.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/bin/Debug/net6.0/metodlar.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/obj/Debug/net6.0/metodlar.csproj.AssemblyReference.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/obj/Debug/net6.0/metodlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/obj/Debug/net6.0/metodlar.AssemblyInfoInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/obj/Debug/net6.0/metodlar.AssemblyInfo.cs
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/obj/Debug/net6.0/metodlar.csproj.CoreCompileInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/obj/Debug/net6.0/metodlar.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/obj/Debug/net6.0/refint/metodlar.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/obj/Debug/net6.0/metodlar.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/obj/Debug/net6.0/metodlar.genruntimeconfig.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/test/obj/Debug/net6.0/ref/metodlar.dll

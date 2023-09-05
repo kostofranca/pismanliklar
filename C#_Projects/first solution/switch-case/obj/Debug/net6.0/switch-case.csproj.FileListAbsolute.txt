@@ -1,0 +1,15 @@
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/bin/Debug/net6.0/switch-case
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/bin/Debug/net6.0/switch-case.deps.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/bin/Debug/net6.0/switch-case.runtimeconfig.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/bin/Debug/net6.0/switch-case.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/bin/Debug/net6.0/switch-case.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/switch-case.csproj.AssemblyReference.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfoInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfo.cs
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/switch-case.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/refint/switch-case.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/switch-case.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/switch-case.genruntimeconfig.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/ref/switch-case.dll

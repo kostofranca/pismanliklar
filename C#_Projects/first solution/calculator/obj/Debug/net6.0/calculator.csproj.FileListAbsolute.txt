@@ -1,0 +1,15 @@
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/bin/Debug/net6.0/calculator
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/bin/Debug/net6.0/calculator.deps.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/bin/Debug/net6.0/calculator.runtimeconfig.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/bin/Debug/net6.0/calculator.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/bin/Debug/net6.0/calculator.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/obj/Debug/net6.0/calculator.csproj.AssemblyReference.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/obj/Debug/net6.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/obj/Debug/net6.0/calculator.AssemblyInfoInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/obj/Debug/net6.0/calculator.AssemblyInfo.cs
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/obj/Debug/net6.0/calculator.csproj.CoreCompileInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/obj/Debug/net6.0/calculator.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/obj/Debug/net6.0/refint/calculator.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/obj/Debug/net6.0/calculator.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/obj/Debug/net6.0/calculator.genruntimeconfig.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/calculator/obj/Debug/net6.0/ref/calculator.dll

@@ -1,0 +1,15 @@
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/array.csproj.AssemblyReference.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/array.AssemblyInfoInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/array.AssemblyInfo.cs
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/array.csproj.CoreCompileInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/bin/Debug/net6.0/array
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/bin/Debug/net6.0/array.deps.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/bin/Debug/net6.0/array.runtimeconfig.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/bin/Debug/net6.0/array.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/bin/Debug/net6.0/array.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/array.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/refint/array.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/array.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/array.genruntimeconfig.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/switch-case/obj/Debug/net6.0/ref/array.dll

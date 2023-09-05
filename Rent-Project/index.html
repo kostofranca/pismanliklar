@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap Demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+</head>
+
+<body class="font-monospace bg-gradient">
+    <h1 class="text-center mt-3">Ahmet Kasım Erbay</h1>
+    <div class="container rounded-3 mt-1 p-3 shadow-lg">
+        <div class="row justify-content-center">
+            <div class=" col-6">
+                <div class="card border-warning">
+                    <div class="card-header">
+                        <h2 class="text-center">Add User</h2>
+                    </div>
+
+                    <div class="card-body">
+
+                        <label for="name">Name:</label>
+                        <input id="name" type="text" class="form-control" placeholder="Your Name">
+
+                        <label for="surname">Surname:</label>
+                        <input id="surname" type="text" class="form-control" placeholder="Your Surname">
+
+                        <label for="age">Age:</label>
+                        <input id="age" type="number" class="form-control" placeholder="18" min="18" max="65">
+
+                        <label for="licence" class="mt-3">Licence:</label>
+                        <select id="licence" class="form-control">
+                            <option selected disabled>Licence Type</option>
+                            <option value="A">A</option>
+                            <option value="B">B</option>
+                            <option value="C">C</option>
+                        </select>
+
+                    </div>
+                    <div class="card-footer">
+                        <button class="btn btn-warning w-100" onclick="userSave()">Save</button>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-6">
+                <div class="card border-danger" style="height: 416px;">
+                    <div class="card-header">
+                        <h2 class="text-center">User List</h2>
+                    </div>
+                    <div class="card-body" style="overflow:hidden; overflow-y: scroll; height:312px;">
+                        <table class="table table-bordered text-center border-end">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Name</th>
+                                    <th>Surname</th>
+                                    <th>Age</th>
+                                    <th>Licence</th>
+                                </tr>
+                            </thead>
+                            <tbody id="table-body-1">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container rounded-3 mt-1 p-3 shadow-lg">
+        <div class="row justify-content-center">
+            <div class="col-6">
+                <div class="card border-warning" s>
+                    <div class="card-header">
+                        <h2 class="text-center">Add Car</h2>
+                    </div>
+                    <div class="card-body">
+                        <label for="model">Model:</label>
+                        <input id="model" type="text" class="form-control" placeholder="S6">
+
+                        <label for="brand">Brand:</label>
+                        <input id="brand" type="text" class="form-control" placeholder="Tycoon">
+
+                        <label for="color">Color:</label>
+                        <input id="color" type="color" class="form-control">
+
+                    </div>
+                    <div class="card-footer">
+                        <button class="btn btn-warning w-100" onclick="carSave()">Save</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-6">
+                <div class="card border-danger">
+                    <div class="card-header">
+                        <h2 class="text-center">Car List</h2>
+                    </div>
+                    <div class="card-body" style="overflow:hidden; overflow-y: scroll; height:262px;">
+                        <table class="table table-bordered text-center border-end">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Model</th>
+                                    <th>Brand</th>
+                                    <th>Color</th>
+                                </tr>
+                            </thead>
+                            <tbody id="table-body-2">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container rounded-3 mt-1 p-3 shadow-lg">
+        <div class="row justify-content-center">
+            <div class=" col-3 mt-1">
+                <div class="card border-info">
+                    <div class="card-header">
+                        <h2 class="text-center">Rent List</h2>
+                    </div>
+                    <div class="card-body" style="overflow:hidden; overflow-y: scroll; height:262px;">
+                        <div class="row justify-content-center text-center w-100">
+                            <h2 class="text-center m-3">User and Car</h2>
+                            <div class="col-12 border-danger mb-2">
+                                <select name="user" id="user-option" class="form-control custom-select">
+                                    <option selected disabled value>User Select</option>
+                                </select>
+                            </div>
+                            <div class="col-12 border-danger">
+                                <select name="car" id="car-option" class="form-control w-100 custom-select">
+                                    <option selected disabled value>Car Select</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <div class="col-12 mt-3">
+                            <button class="btn btn-success w-100" onclick="displayRent()">Finish Rent</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-9 mt-1">
+                <div class="card border-danger">
+                    <div class="card-header">
+                        <h2 class="text-center">User & Car List</h2>
+                    </div>
+                    <div class="card-body" style="overflow:hidden; overflow-y: scroll; height:315px;">
+                        <table class="table table-bordered text-center border-1" id="table-3">
+                            <thead id="rent-table">
+                                <th>#User</th>
+                                <th>Name</th>
+                                <th>Surname</th>
+                                <th>Age</th>
+                                <th>Licence</th>
+                                <th>#Car</th>
+                                <th>Model</th>
+                                <th>Brand</th>
+                                <th>Color</th>
+                            </thead>
+                            <tbody id="table-body-3">
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="card-footer">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+        crossorigin="anonymous"></script>
+    <script src="/rent.js"></script>
+</body>
+
+</html>

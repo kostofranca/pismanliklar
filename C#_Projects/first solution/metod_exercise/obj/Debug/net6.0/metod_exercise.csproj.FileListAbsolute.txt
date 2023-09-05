@@ -1,0 +1,15 @@
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/bin/Debug/net6.0/metod_exercise
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/bin/Debug/net6.0/metod_exercise.deps.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/bin/Debug/net6.0/metod_exercise.runtimeconfig.json
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/bin/Debug/net6.0/metod_exercise.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/bin/Debug/net6.0/metod_exercise.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/obj/Debug/net6.0/metod_exercise.csproj.AssemblyReference.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/obj/Debug/net6.0/metod_exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/obj/Debug/net6.0/metod_exercise.AssemblyInfoInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/obj/Debug/net6.0/metod_exercise.AssemblyInfo.cs
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/obj/Debug/net6.0/metod_exercise.csproj.CoreCompileInputs.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/obj/Debug/net6.0/metod_exercise.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/obj/Debug/net6.0/refint/metod_exercise.dll
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/obj/Debug/net6.0/metod_exercise.pdb
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/obj/Debug/net6.0/metod_exercise.genruntimeconfig.cache
+/Users/ahmetkasimerbay/Desktop/C#_Projects/first solution/metod_exercise/obj/Debug/net6.0/ref/metod_exercise.dll
