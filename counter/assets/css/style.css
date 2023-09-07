@@ -1,0 +1,136 @@
+* {
+    font-family:monospace;
+}
+
+h2,
+h3,
+p {
+    color: rgb(39, 76, 119);
+}
+
+.card,
+#number-frame {
+    background-color: rgba(231, 236, 239, 0.5);
+    animation: shadow-bg 20s infinite;
+}
+
+.card-header {
+    border: none;
+}
+
+body #back{
+    background: url('/counter/assets/img/background.jpg') no-repeat center center fixed;
+    background-size:cover;
+    
+}
+
+.card-footer{
+    border-top: none;
+}
+
+#button {
+    background-color: rgb(163, 206, 241);
+    border: none;
+    animation: pulse-bg 20s infinite;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #222;
+}
+
+.card {
+    border: 2px solid;
+    /* add a solid border to the card */
+    animation: pulse-border 20s infinite;
+    /* apply the pulse-border animation */
+}
+
+@keyframes pulse-border {
+    0% {
+        border-color: #000501;
+    }
+
+    20% {
+        border-color: #73AB84;
+    }
+
+    40% {
+        border-color: #99D19C;
+    }
+
+    60% {
+        border-color: #79C7C5;
+    }
+
+    80% {
+        border-color: #ADE1E5;
+    }
+
+    100% {
+        border-color: #EFF7CF;
+    }
+}
+
+@keyframes pulse-bg {
+    0% {
+        background-color: #000501;
+        color: white;
+    }
+
+    20% {
+        background-color: #73AB84;
+        color: white;
+    }
+
+    40% {
+        background-color: #99D19C;
+        color: white;
+    }
+
+    60% {
+        background-color: #79C7C5;
+        color: white;
+    }
+
+    80% {
+        background-color: #ADE1E5;
+        color: white;
+    }
+
+    100% {
+        background-color: #EFF7CF;
+        color: black;
+    }
+    
+}
+
+@keyframes shadow-bg {
+    0% {
+        box-shadow: #000501 inset; 
+    }
+
+    20% {
+        box-shadow: #73AB84 inset;
+    }
+
+    40% {
+        box-shadow: #99D19C inset;
+    }
+
+    60% {
+        box-shadow: #79C7C5 inset;
+    }
+
+    80% {
+        box-shadow: #ADE1E5 inset;
+    }
+
+    100% {
+        box-shadow: #EFF7CF inset;
+    }
+}
+
